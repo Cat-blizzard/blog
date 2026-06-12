@@ -12,6 +12,13 @@ article .content > p {
   text-indent: 2em;
 }
 
+article .content blockquote .epigraph {
+  display: inline-block;
+  font-style: italic !important;
+  transform: skewX(-7deg);
+  transform-origin: left center;
+}
+
 #post-list .series-post {
   border-left: 4px solid var(--link-color);
 }
@@ -50,6 +57,13 @@ article .content > p {
 
 #post-list .series-post .card-title {
   margin-top: 0.25rem !important;
+}
+
+#post-list .series-section-title {
+  margin: -0.15rem 0 0.6rem;
+  color: var(--text-muted-color);
+  font-size: 0.98rem;
+  font-weight: 600;
 }
 
 #page-category .series-archive-description {
