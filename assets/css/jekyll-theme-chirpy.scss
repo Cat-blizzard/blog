@@ -11,3 +11,51 @@
 article .content > p {
   text-indent: 2em;
 }
+
+#post-list .series-post {
+  border-left: 4px solid var(--link-color);
+}
+
+#post-list .series-kicker {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 0.35rem;
+  line-height: 1.4;
+}
+
+#post-list .series-kicker i {
+  color: var(--link-color);
+}
+
+#post-list .series-label {
+  color: var(--text-muted-color);
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+#post-list .series-title {
+  color: var(--heading-color, var(--text-color));
+  font-size: 1.08rem;
+  font-weight: 700;
+}
+
+#post-list .series-description {
+  margin: 0 0 0.75rem;
+  color: var(--text-muted-color);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+#post-list .series-post .card-title {
+  margin-top: 0.25rem !important;
+}
+
+#page-category .series-archive-description {
+  margin: 0.5rem 0 1.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--link-color);
+  color: var(--text-muted-color);
+  line-height: 1.8;
+}
