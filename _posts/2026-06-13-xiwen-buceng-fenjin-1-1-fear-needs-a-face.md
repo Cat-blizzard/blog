@@ -5,15 +5,18 @@ categories: [檄文不曾焚尽]
 tags: [历史, 王权, 权力]
 series: 檄文不曾焚尽
 book_order: 1
+chapter_order: 1
+section_order: 1
+section_number: "1.1"
 chapter: 第一章
 chapter_title: 皇帝不是一个人，而是一个位置
-section_title: 第一节：恐惧需要一张脸
+section_title: 1.1 恐惧需要一张脸
 ---
 
 > <span class="epigraph">“国王有两个身体：一个自然之身，一个政治之身。”</span><br>
 > <span class="epigraph">——据恩斯特·康托洛维茨《国王的两个身体》</span>
 
-## 第一节：恐惧需要一张脸
+## 1.1 恐惧需要一张脸
 
 我们似乎很习惯在一个群体里寻找“中心”。
 

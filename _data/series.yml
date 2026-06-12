@@ -1,3 +1,10 @@
 - name: 檄文不曾焚尽
   icon: far fa-folder-open
   description: 本书并不试图给历史下一个定论，而是借正史、稗史与传闻，讨论权力如何运转，秩序如何形成，以及人如何在历史叙事中理解自身。
+  chapters:
+    - number: 1
+      title: 皇帝不是一个人，而是一个位置
+      sections:
+        - number: "1.1"
+          title: 恐惧需要一张脸
+          slug: xiwen-buceng-fenjin-1-1-fear-needs-a-face
