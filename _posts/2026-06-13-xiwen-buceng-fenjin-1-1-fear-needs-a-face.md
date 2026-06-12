@@ -8,7 +8,6 @@ book_order: 1
 chapter: 第一章
 chapter_title: 皇帝不是一个人，而是一个位置
 section_title: 第一节：恐惧需要一张脸
-description: 恐惧需要一个可以被祈求、服从、怨恨和追责的对象；王权也正是在一次次危机中的让渡里成形。
 ---
 
 > <span class="epigraph">“国王有两个身体：一个自然之身，一个政治之身。”</span><br>
